@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.bebef0fc.css",
-    "main.js": "/static/js/main.29956047.js",
+    "main.js": "/static/js/main.2190bc0f.js",
     "static/js/787.444fca95.chunk.js": "/static/js/787.444fca95.chunk.js",
     "static/media/Cowboy-Mascot-Final.png": "/static/media/Cowboy-Mascot-Final.aed0cb5b5087bb513d77.png",
     "static/media/PrivacyPolicy.pdf": "/static/media/PrivacyPolicy.1131d527aae0e3ba6859.pdf",
     "static/media/StraightenerHeader.png": "/static/media/StraightenerHeader.5375416a849adca68080.png",
+    "static/media/UserAgreement.pdf": "/static/media/UserAgreement.d1103365b4a9b0a84255.pdf",
     "index.html": "/index.html",
     "main.bebef0fc.css.map": "/static/css/main.bebef0fc.css.map",
-    "main.29956047.js.map": "/static/js/main.29956047.js.map",
+    "main.2190bc0f.js.map": "/static/js/main.2190bc0f.js.map",
     "787.444fca95.chunk.js.map": "/static/js/787.444fca95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bebef0fc.css",
-    "static/js/main.29956047.js"
+    "static/js/main.2190bc0f.js"
   ]
 }
