@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.711513b5.css",
-    "main.js": "/static/js/main.f38d7b9b.js",
+    "main.css": "/static/css/main.775b620d.css",
+    "main.js": "/static/js/main.fc3eecc1.js",
     "static/js/787.444fca95.chunk.js": "/static/js/787.444fca95.chunk.js",
     "static/media/Cowboy-Mascot-Final.png": "/static/media/Cowboy-Mascot-Final.aed0cb5b5087bb513d77.png",
     "static/media/PrivacyPolicy.pdf": "/static/media/PrivacyPolicy.1131d527aae0e3ba6859.pdf",
@@ -9,12 +9,12 @@
     "static/media/UserAgreement.pdf": "/static/media/UserAgreement.d1103365b4a9b0a84255.pdf",
     "static/media/AppStore.png": "/static/media/AppStore.24b1bb09d877c1156d7d.png",
     "index.html": "/index.html",
-    "main.711513b5.css.map": "/static/css/main.711513b5.css.map",
-    "main.f38d7b9b.js.map": "/static/js/main.f38d7b9b.js.map",
+    "main.775b620d.css.map": "/static/css/main.775b620d.css.map",
+    "main.fc3eecc1.js.map": "/static/js/main.fc3eecc1.js.map",
     "787.444fca95.chunk.js.map": "/static/js/787.444fca95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.711513b5.css",
-    "static/js/main.f38d7b9b.js"
+    "static/css/main.775b620d.css",
+    "static/js/main.fc3eecc1.js"
   ]
 }
